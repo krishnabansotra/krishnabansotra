@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @krishnabansotra
 - 👀 I’m interested in ...Problem solving
-- 🌱 I’m currently learning ...Python,Frontend(HTML5,CSS)
+- 🌱 I’m currently learning ... Frontend, Backend & Database Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me via email = krishnabansotra3@gmail.com
+- 😄 Pronouns: He
+
 
 <!---
 krishnabansotra/krishnabansotra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
