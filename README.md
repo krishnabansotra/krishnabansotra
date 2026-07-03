@@ -1,36 +1,68 @@
-Hi, I'm Krishna Bansotra 👋
-About Me
+# Hi, I'm Krishna Bansotra 👋
 
-I am a Computer Science Engineering student passionate about technology, software development, and problem-solving. I enjoy building projects that combine practical applications with learning new technologies.
+## About Me
 
-I am currently focused on improving my skills in web development, machine learning, and software engineering, while also working on real-world projects and internships.
+I'm a Computer Science Engineering student passionate about software development, artificial intelligence, and cybersecurity. I enjoy building practical projects that solve real-world problems while continuously learning modern technologies.
 
-Skills
-Programming: C, Python (basic to intermediate)
-Web Development: HTML, CSS, JavaScript
-Backend: Flask (learning phase)
-Tools: Git, GitHub
-Interests: AI/ML, Web Development, Open Source
-Current Focus
-Strengthening Data Structures and Algorithms
-Building full-stack web projects
-Exploring Machine Learning applications
-Preparing for placements and internships
-Experience & Activities
-NSS Volunteer with active participation in social initiatives
-Organized cleanliness drives, awareness programs, and college events
-Selected for national-level youth programs and leadership events
-Built small projects like a Tic Tac Toe game and AI-based systems
-Goals
-Become a skilled software developer
-Work on impactful real-world projects
-Contribute to open source
-Secure a strong internship/placement opportunity
-Connect With Me
-GitHub: github.com/krishnabansotra
-Location: India
-Always open to learning and collaboration
-<!---
-krishnabansotra/krishnabansotra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently, I'm focused on strengthening my development skills through hands-on projects in Machine Learning, Web Development, and Python.
+
+---
+
+## Skills
+
+### Programming Languages
+- Python
+- C
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- Streamlit
+- Flask (Learning)
+
+### Machine Learning
+- Pandas
+- NumPy
+- Scikit-learn
+- Movie Recommendation Systems
+- Data Analysis
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Google Colab
+
+---
+
+## Current Focus
+
+- Building Machine Learning Projects
+- Full-Stack Web Development
+- Data Structures & Algorithms
+- Cybersecurity Fundamentals
+- Open Source Contributions
+
+---
+
+
+## GitHub Stats
+
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnabansotra&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnabansotra&layout=compact&theme=github_dark)
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/krishnabansotra
+- LinkedIn: *(Add your LinkedIn profile here)*
+- Portfolio: *(Add your portfolio link after deployment)*
+- Location: India
+
+---
+
+⭐ Always learning, building, and exploring new technologies.
