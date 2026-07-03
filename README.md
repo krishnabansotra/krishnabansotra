@@ -59,8 +59,6 @@ Currently, I'm focused on strengthening my development skills through hands-on p
 ## Connect With Me
 
 - GitHub: https://github.com/krishnabansotra
-- LinkedIn: *(Add your LinkedIn profile here)*
-- Portfolio: *(Add your portfolio link after deployment)*
 - Location: India
 
 ---
