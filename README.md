@@ -14,6 +14,8 @@ Currently, I'm focused on strengthening my development skills through hands-on p
 - Python
 - C
 - JavaScript
+- C++
+- Java
 
 ### Web Development
 - HTML
